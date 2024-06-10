@@ -31,7 +31,7 @@ function Hero() {
 					<img
 						src="./assets/Img/heroImg.png"
 						alt="VaultFlow's line chart"
-						className="py-10"
+						className="py-10 w-7/12"
 					/>
 				</article>
 			</section>
