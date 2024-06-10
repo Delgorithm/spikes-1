@@ -10,7 +10,7 @@ function Navbar() {
 						alt="VaultFlow's logo"
 						className="w-6"
 					/>
-					<h1>VaultFlow</h1>
+					<h2>VaultFlow</h2>
 				</section>
 				<ul className="flex gap-8 font-thin text-xs">
 					<li>
